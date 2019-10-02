@@ -7,7 +7,7 @@ manage your tasks from the comfort of your terminal
 
 <img  src="https://raw.githubusercontent.com/ammarbinfaisal/tasks/master/preview.gif"/>
 
- _This is just an toy thing I made while learning how to move cursor around in the terminal and i can't ensure the absence of bugs._
+ _This is just a toy thing I made while learning how to move cursor around the terminal and I can't ensure the absence of bugs._
 
 ## Install
 
